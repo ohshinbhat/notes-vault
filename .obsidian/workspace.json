@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "3080ab47907e2791",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c3fc22f855e917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831fb5d441e46b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Arrays/Arrays-Easy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "511673e56c5021c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7666aaca6877247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c372813f5b37024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71611a360b8da8c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a434d9a5bc82c37b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b79c3aa5f3e9493f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe74764356851b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3d4e03c05fa6b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/Arrays/Arrays-Easy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbaf7f57b1b86e3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/Arrays/Arrays-Easy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2147ff4692b080a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0d28021dbeacb5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/Arrays/Arrays-Easy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "831fb5d441e46b4c",
+  "lastOpenFiles": [
+    "DSA/Strings/Strings-Medium.md",
+    "DSA/Strings/String-Easy.md",
+    "DSA/Strings/Strings-Notes.md",
+    "DSA/Dynamic-Programming/RecursionDP-notes.md",
+    "DSA/Dynamic-Programming/DP-Medium.md",
+    "DSA/Dynamic-Programming/DP-Easy.md",
+    "DSA/Linked-List/Linked-List-Medium.md",
+    "DSA/Linked-List/Untitled.md",
+    "DSA/Linked-List/Linked-List-Easy.md",
+    "DSA/Linked-List/Linked-List-Notes.md",
+    "DSA/Arrays/Arrays-Notes.md",
+    "DSA/Arrays/Arrays-Medium.md",
+    "DSA/Arrays/Arrays-Easy.md",
+    "DSA/Untitled.md",
+    "DSA/Math",
+    "DSA/Strings",
+    "DSA/Dynamic-Programming",
+    "DSA/Linked-List",
+    "DSA/Arrays",
+    "Untitled.md",
+    "DSA",
+    "LeetCode To-Do Sheet.md",
+    "DSA",
+    "2023-08-21.md",
+    "Untitled.canvas"
+  ]
+}
