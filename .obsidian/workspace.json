@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19c3fc22f855e917",
+        "id": "a7ba8f7d30dd0fac",
         "type": "tabs",
         "children": [
           {
-            "id": "831fb5d441e46b4c",
+            "id": "8477c14b83337e05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md",
+                "file": "DSA/Arrays/Arrays-Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b79c3aa5f3e9493f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md",
+                "file": "DSA/Arrays/Arrays-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md",
+                "file": "DSA/Arrays/Arrays-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md"
+                "file": "DSA/Arrays/Arrays-Notes.md"
               }
             }
           }
@@ -147,8 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "831fb5d441e46b4c",
+  "active": "8477c14b83337e05",
   "lastOpenFiles": [
+    "Redux-Notes.md",
+    "DSA/Arrays/Arrays-Easy.md",
+    "Javascript-Notes.md",
+    "React-Notes.md",
+    "Untitled",
+    "Redux",
+    "React",
+    "JavaScript",
     "DSA/Strings/Strings-Medium.md",
     "DSA/Strings/String-Easy.md",
     "DSA/Strings/Strings-Notes.md",
@@ -161,17 +168,14 @@
     "DSA/Linked-List/Linked-List-Notes.md",
     "DSA/Arrays/Arrays-Notes.md",
     "DSA/Arrays/Arrays-Medium.md",
-    "DSA/Arrays/Arrays-Easy.md",
     "DSA/Untitled.md",
     "DSA/Math",
     "DSA/Strings",
     "DSA/Dynamic-Programming",
     "DSA/Linked-List",
     "DSA/Arrays",
-    "Untitled.md",
     "DSA",
     "LeetCode To-Do Sheet.md",
-    "DSA",
     "2023-08-21.md",
     "Untitled.canvas"
   ]
