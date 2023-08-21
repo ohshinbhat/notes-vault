@@ -1,6 +1,7 @@
 {
   "accentColor": "#6befe0",
   "cssTheme": "",
-  "textFontFamily": "Helvetica CE",
-  "translucency": true
+  "textFontFamily": "Unbounded",
+  "translucency": true,
+  "interfaceFontFamily": "Unbounded"
 }
