@@ -11,8 +11,12 @@
             "id": "45d9c7f7b978a6f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Redux-Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b79c3aa5f3e9493f",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redux-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redux-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redux-Notes.md"
+              }
             }
           }
         ]
@@ -140,6 +149,7 @@
   },
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
+    "Pasted image 20230821103624.png",
     "DSA/Dynamic-Programming/RecursionDP-notes.md",
     "DSA/Arrays/Arrays-Easy.md",
     "DSA/Arrays/Arrays-Notes.md",
