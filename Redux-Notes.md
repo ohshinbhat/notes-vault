@@ -16,3 +16,8 @@ A **reducer** is a function that receives the current `state` and an `actio
 ![[Pasted image 20230821103624.png]]
 The Redux store is created using the `configureStore` function from Redux Toolkit. `configureStore` requires that we pass in a `reducer` argument.
 **A "slice" is a collection of Redux reducer logic and actions for a single feature in your app**, typically defined together in a single file.
+
+
+Thunk Middleware is for asynchronous logic. Thunk- code that does delayed work.
+Hydrating?
+CreateAsyncThunk?
