@@ -14,3 +14,5 @@ A **reducer** is a function that receives the current `state` and an `actio
 **The only way to update the state is to call `store.dispatch()` and pass in an action object**. The store will run its reducer function and save the new state value inside, and we can call `getState()` to retrieve the updated value. You can think of dispatching actions as "triggering an event" in the application.
 
 ![[Pasted image 20230821103624.png]]
+The Redux store is created using the `configureStore` function from Redux Toolkit. `configureStore` requires that we pass in a `reducer` argument.
+**A "slice" is a collection of Redux reducer logic and actions for a single feature in your app**, typically defined together in a single file.
