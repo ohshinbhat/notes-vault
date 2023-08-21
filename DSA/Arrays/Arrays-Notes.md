@@ -1,1 +1,1 @@
-int[] intArray = new int[20];
+Syntax: int[] intArray = new int[20];

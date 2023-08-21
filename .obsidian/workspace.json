@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7ba8f7d30dd0fac",
+        "id": "af4272e9e2576e33",
         "type": "tabs",
         "children": [
           {
-            "id": "8477c14b83337e05",
+            "id": "45d9c7f7b978a6f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Arrays/Arrays-Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Arrays/Arrays-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Arrays/Arrays-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/Arrays/Arrays-Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8477c14b83337e05",
+  "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
-    "Redux-Notes.md",
+    "DSA/Dynamic-Programming/RecursionDP-notes.md",
     "DSA/Arrays/Arrays-Easy.md",
+    "DSA/Arrays/Arrays-Notes.md",
+    "Redux-Notes.md",
     "Javascript-Notes.md",
     "React-Notes.md",
     "Untitled",
@@ -159,14 +153,12 @@
     "DSA/Strings/Strings-Medium.md",
     "DSA/Strings/String-Easy.md",
     "DSA/Strings/Strings-Notes.md",
-    "DSA/Dynamic-Programming/RecursionDP-notes.md",
     "DSA/Dynamic-Programming/DP-Medium.md",
     "DSA/Dynamic-Programming/DP-Easy.md",
     "DSA/Linked-List/Linked-List-Medium.md",
     "DSA/Linked-List/Untitled.md",
     "DSA/Linked-List/Linked-List-Easy.md",
     "DSA/Linked-List/Linked-List-Notes.md",
-    "DSA/Arrays/Arrays-Notes.md",
     "DSA/Arrays/Arrays-Medium.md",
     "DSA/Untitled.md",
     "DSA/Math",
