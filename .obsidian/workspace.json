@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b79c3aa5f3e9493f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux-Notes.md"
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md"
               }
             }
           }
@@ -144,17 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
-    "Pasted image 20230821103624.png",
+    "Excalidraw/RecursionDP-notes 2023-08-21 20.19.07.excalidraw.md",
     "DSA/Dynamic-Programming/RecursionDP-notes.md",
+    "Excalidraw",
+    "DSA/Dynamic-Programming/DP-Easy.md",
+    "Javascript-Notes.md",
+    "Pasted image 20230821103624.png",
+    "Redux-Notes.md",
+    "Untitled.canvas",
     "DSA/Arrays/Arrays-Easy.md",
     "DSA/Arrays/Arrays-Notes.md",
-    "Redux-Notes.md",
-    "Javascript-Notes.md",
     "React-Notes.md",
     "Untitled",
     "Redux",
@@ -164,7 +168,6 @@
     "DSA/Strings/String-Easy.md",
     "DSA/Strings/Strings-Notes.md",
     "DSA/Dynamic-Programming/DP-Medium.md",
-    "DSA/Dynamic-Programming/DP-Easy.md",
     "DSA/Linked-List/Linked-List-Medium.md",
     "DSA/Linked-List/Untitled.md",
     "DSA/Linked-List/Linked-List-Easy.md",
@@ -176,9 +179,7 @@
     "DSA/Dynamic-Programming",
     "DSA/Linked-List",
     "DSA/Arrays",
-    "DSA",
     "LeetCode To-Do Sheet.md",
-    "2023-08-21.md",
-    "Untitled.canvas"
+    "2023-08-21.md"
   ]
 }
