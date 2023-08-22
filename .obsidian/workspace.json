@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-Dev/Hooks.md",
+                "file": "Web-Dev/Next JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Dev/Hooks.md",
+                "file": "Web-Dev/Next JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Dev/Hooks.md",
+                "file": "Web-Dev/Next JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Dev/Hooks.md"
+                "file": "Web-Dev/Next JS.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
+    "Web-Dev/Hooks.md",
+    "Web-Dev/Next JS.md",
     "DSA/Dynamic-Programming/RecursionDP-notes.md",
     "DSA/Strings/String-Easy.md",
     "DSA/DSA List.md",
