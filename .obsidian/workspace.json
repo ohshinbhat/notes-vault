@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a05bdd1eb32bd50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,13 +137,21 @@
                 "file": "Web-Dev/Next JS.md"
               }
             }
+          },
+          {
+            "id": "2f4718f5564e7074",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45d9c7f7b978a6f6",
+  "active": "8c372813f5b37024",
   "lastOpenFiles": [
-    "Web-Dev/Hooks.md",
+    "2023-08-23.md",
+    "Excalidraw/Drawing 2023-08-23 19.36.55.excalidraw.md",
     "Web-Dev/Next JS.md",
+    "Web-Dev/Hooks.md",
     "DSA/Dynamic-Programming/RecursionDP-notes.md",
     "DSA/Strings/String-Easy.md",
     "DSA/DSA List.md",
