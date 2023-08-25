@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 455.51240158081055
   },
   "right": {
     "id": "b79c3aa5f3e9493f",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Dev/REST API with Ts.md",
+                "file": "Web-Dev/Next JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Dev/REST API with Ts.md",
+                "file": "Web-Dev/Next JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Dev/REST API with Ts.md"
+                "file": "Web-Dev/Next JS.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f4718f5564e7074",
+  "active": "8c372813f5b37024",
   "lastOpenFiles": [
     "Web-Dev/Hooks.md",
     "Web-Dev/REST API with Ts.md",
