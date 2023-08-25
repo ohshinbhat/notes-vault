@@ -2,3 +2,5 @@
 
 
 - local forage is async and local storage is sync
+- default prop
+- 
