@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-Dev/Hooks.md",
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Dev/Hooks.md",
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Dev/Hooks.md",
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Dev/Hooks.md"
+                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md"
               }
             }
           },
@@ -172,8 +172,13 @@
   "active": "1a05bdd1eb32bd50",
   "lastOpenFiles": [
     "Web-Dev/Next JS.md",
-    "Web-Dev/Hooks.md",
     "Web-Dev/REST API with Ts.md",
+    "Web-Dev/FestCult.md",
+    "Excalidraw/FestCult 2023-08-28 00.52.34.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-28 00.52.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-28 00.51.15_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-28 00.51.15.excalidraw.md",
+    "Web-Dev/Hooks.md",
     "Web-Dev/React notes.md",
     "2023-08-23.md",
     "Excalidraw/Drawing 2023-08-23 19.36.55.excalidraw.md",
@@ -199,15 +204,10 @@
     "DSA/Dynamic-Programming/DP-Medium.md",
     "DSA/Linked-List/Linked-List-Medium.md",
     "DSA/Linked-List/Untitled.md",
-    "DSA/Linked-List/Linked-List-Easy.md",
-    "DSA/Linked-List/Linked-List-Notes.md",
-    "DSA/Arrays/Arrays-Medium.md",
     "DSA/Math",
     "DSA/Strings",
     "DSA/Dynamic-Programming",
     "DSA/Linked-List",
-    "DSA/Arrays",
-    "LeetCode To-Do Sheet.md",
-    "2023-08-21.md"
+    "DSA/Arrays"
   ]
 }
