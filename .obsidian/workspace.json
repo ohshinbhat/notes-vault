@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
+                "file": "DSA/Trees/Trees Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b79c3aa5f3e9493f",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
+                "file": "DSA/Trees/Trees Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md",
+                "file": "DSA/Trees/Trees Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Dynamic-Programming/RecursionDP-notes.md"
+                "file": "DSA/Trees/Trees Notes.md"
               }
             }
           },
@@ -155,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +173,15 @@
   },
   "active": "1a05bdd1eb32bd50",
   "lastOpenFiles": [
-    "DSA/Dynamic-Programming/DP-Medium.md",
+    "DSA/DSA List.md",
+    "DSA/Trees/Trees Notes.md",
+    "DSA/Arrays/Arrays-Easy.md",
+    "DSA/Trees",
     "DSA/Dynamic-Programming/DP-Easy.md",
-    "Web-Dev/Hooks.md",
+    "DSA/Linked-List/Linked-List-Easy.md",
     "DSA/Dynamic-Programming/RecursionDP-notes.md",
+    "DSA/Dynamic-Programming/DP-Medium.md",
+    "Web-Dev/Hooks.md",
     "Web-Dev/Next JS.md",
     "Web-Dev/REST API with Ts.md",
     "Web-Dev/FestCult.md",
@@ -186,8 +193,6 @@
     "2023-08-23.md",
     "Excalidraw/Drawing 2023-08-23 19.36.55.excalidraw.md",
     "DSA/Strings/String-Easy.md",
-    "DSA/DSA List.md",
-    "DSA/Arrays/Arrays-Easy.md",
     "Excalidraw/RecursionDP-notes 2023-08-21 20.19.07.excalidraw.md",
     "Excalidraw",
     "Javascript-Notes.md",
@@ -202,12 +207,9 @@
     "JavaScript",
     "DSA/Strings/Strings-Medium.md",
     "DSA/Strings/Strings-Notes.md",
-    "DSA/Linked-List/Linked-List-Medium.md",
-    "DSA/Linked-List/Untitled.md",
     "DSA/Math",
     "DSA/Strings",
     "DSA/Dynamic-Programming",
-    "DSA/Linked-List",
-    "DSA/Arrays"
+    "DSA/Linked-List"
   ]
 }
