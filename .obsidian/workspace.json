@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md",
+                "file": "Web-Dev/React notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b79c3aa5f3e9493f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md",
+                "file": "Web-Dev/React notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md",
+                "file": "Web-Dev/React notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md"
+                "file": "Web-Dev/React notes.md"
               }
             }
           },
@@ -173,23 +172,23 @@
   },
   "active": "1a05bdd1eb32bd50",
   "lastOpenFiles": [
-    "DSA/DSA List.md",
+    "Web-Dev/Hooks.md",
+    "Web-Dev/React notes.md",
+    "Web-Dev/Next JS.md",
     "DSA/Trees/Trees Notes.md",
+    "DSA/DSA List.md",
     "DSA/Arrays/Arrays-Easy.md",
     "DSA/Trees",
     "DSA/Dynamic-Programming/DP-Easy.md",
     "DSA/Linked-List/Linked-List-Easy.md",
     "DSA/Dynamic-Programming/RecursionDP-notes.md",
     "DSA/Dynamic-Programming/DP-Medium.md",
-    "Web-Dev/Hooks.md",
-    "Web-Dev/Next JS.md",
     "Web-Dev/REST API with Ts.md",
     "Web-Dev/FestCult.md",
     "Excalidraw/FestCult 2023-08-28 00.52.34.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 00.52.05.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 00.51.15_0.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 00.51.15.excalidraw.md",
-    "Web-Dev/React notes.md",
     "2023-08-23.md",
     "Excalidraw/Drawing 2023-08-23 19.36.55.excalidraw.md",
     "DSA/Strings/String-Easy.md",
