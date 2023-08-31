@@ -1,8 +1,9 @@
 {
-  "accentColor": "#6befe0",
+  "accentColor": "",
   "cssTheme": "",
-  "textFontFamily": "Unbounded",
+  "textFontFamily": "Fira Code,Helvetica CE",
   "translucency": true,
-  "interfaceFontFamily": "Unbounded",
-  "baseFontSize": 23
+  "interfaceFontFamily": "Clash Display,Helvetica CE",
+  "baseFontSize": 23,
+  "baseFontSizeAction": true
 }
