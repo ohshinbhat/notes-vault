@@ -3,5 +3,6 @@
   "cssTheme": "",
   "textFontFamily": "Unbounded",
   "translucency": true,
-  "interfaceFontFamily": "Unbounded"
+  "interfaceFontFamily": "Unbounded",
+  "baseFontSize": 23
 }

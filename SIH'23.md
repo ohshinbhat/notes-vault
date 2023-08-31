@@ -3,7 +3,11 @@
 
 http://www.retrobuiltgames.com/the-build-page/arduino-vending-machine/
 
-https://youtu.be/40tZQPd3z8g?si=jSbkjRh-WP5J7Ejo
+https://youtu.be/40tZQPd3z8g?si=jSbkjRh-
+
+https://youtu.be/BHQBsswUeT0?si=BWbZTjtCQhiR7A8n
+
+https://youtu.be/6qPCrWp8L4s?si=YzpJq5R2Z8k_fFjp
 
 twilio:
 https://www.twilio.com/blog/send-an-sms-react-twilio#:~:text=import%20React%2C%20%7B%20Component%20%7D%20from,an%20SMS%20to%20the%20number.
@@ -62,3 +66,5 @@ Designing a system for a QR Code drug ATM that dispenses a wide range of medicin
 Remember that this is a high-level overview, and the implementation of each component would require detailed design, development, and testing to ensure the reliability, security, and accuracy of the QR Code drug ATM system.
 
 
+wood- 9mm 6mm
+aluminum-
