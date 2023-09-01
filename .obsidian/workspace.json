@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a05bdd1eb32bd50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redux-Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "Web-Dev/Next JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "Web-Dev/Next JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux-Notes.md"
+                "file": "Web-Dev/Next JS.md"
               }
             }
           },
@@ -170,12 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a05bdd1eb32bd50",
+  "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
+    "Redux-Notes.md",
     "React-Notes.md",
     "2023-08-23.md",
     "SIH'23.md",
-    "Redux-Notes.md",
     "Pasted image 20230821103624.png",
     "Javascript-Notes.md",
     "Web-Dev/React notes.md",
