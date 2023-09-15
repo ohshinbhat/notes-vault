@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md",
+                "file": "DSA/Arrays/Arrays-Medium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md",
+                "file": "DSA/Arrays/Arrays-Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md",
+                "file": "DSA/Arrays/Arrays-Medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Arrays/Arrays-Easy.md"
+                "file": "DSA/Arrays/Arrays-Medium.md"
               }
             }
           },
@@ -169,9 +169,9 @@
   },
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
+    "DSA/Arrays/Arrays-Easy.md",
     "DSA/Arrays/Arrays-Notes.md",
     "DSA/Arrays/Arrays-Medium.md",
-    "DSA/Arrays/Arrays-Easy.md",
     "DSA/DSA List.md",
     "Redux-Notes.md",
     "Web-Dev/Next JS.md",
