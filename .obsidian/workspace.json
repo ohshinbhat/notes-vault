@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "DSA/Arrays/Arrays-Easy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "DSA/Arrays/Arrays-Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux-Notes.md",
+                "file": "DSA/Arrays/Arrays-Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux-Notes.md"
+                "file": "DSA/Arrays/Arrays-Easy.md"
               }
             }
           },
@@ -135,6 +135,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "1ae43be25c72f69f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -159,8 +169,12 @@
   },
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
-    "Web-Dev/Next JS.md",
+    "DSA/Arrays/Arrays-Notes.md",
+    "DSA/Arrays/Arrays-Medium.md",
+    "DSA/Arrays/Arrays-Easy.md",
+    "DSA/DSA List.md",
     "Redux-Notes.md",
+    "Web-Dev/Next JS.md",
     "React-Notes.md",
     "2023-08-23.md",
     "SIH'23.md",
@@ -169,8 +183,6 @@
     "Web-Dev/React notes.md",
     "Web-Dev/Hooks.md",
     "DSA/Trees/Trees Notes.md",
-    "DSA/DSA List.md",
-    "DSA/Arrays/Arrays-Easy.md",
     "DSA/Trees",
     "DSA/Dynamic-Programming/DP-Easy.md",
     "DSA/Linked-List/Linked-List-Easy.md",
@@ -187,7 +199,6 @@
     "Excalidraw/RecursionDP-notes 2023-08-21 20.19.07.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
-    "DSA/Arrays/Arrays-Notes.md",
     "Untitled",
     "Redux",
     "React",
