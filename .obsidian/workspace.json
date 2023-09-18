@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,8 +171,8 @@
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
     "DSA/Arrays/Arrays-Easy.md",
-    "DSA/Arrays/Arrays-Notes.md",
     "DSA/Arrays/Arrays-Medium.md",
+    "DSA/Arrays/Arrays-Notes.md",
     "DSA/DSA List.md",
     "Redux-Notes.md",
     "Web-Dev/Next JS.md",
