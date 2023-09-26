@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Stack Queue Heap.md",
+                "file": "DSA/Trees/Trees Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Stack Queue Heap.md",
+                "file": "DSA/Trees/Trees Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Stack Queue Heap.md",
+                "file": "DSA/Trees/Trees Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Stack Queue Heap.md"
+                "file": "DSA/Trees/Trees Notes.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "45d9c7f7b978a6f6",
   "lastOpenFiles": [
-    "DSA/Trees/Trees Notes.md",
     "DSA/Stack Queue Heap.md",
+    "DSA/Trees/Trees Notes.md",
     "DSA/Trees/Trees-Easy.md",
+    "DSA/DSA List.md",
     "DSA/Arrays/Arrays-Easy.md",
     "Pasted image 20230918054946.png",
     "Pasted image 20230918054638.png",
     "DSA/Arrays/Arrays-Medium.md",
     "DSA/Arrays/Arrays-Notes.md",
-    "DSA/DSA List.md",
     "Redux-Notes.md",
     "Web-Dev/Next JS.md",
     "React-Notes.md",

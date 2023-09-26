@@ -46,7 +46,7 @@ Post-order: 4 8 5 2 6 9 10 7 3 1
 Breadth First Search-
 Level Order Traversal: Level 1 2 3 ...
 `class Solution {
-`	public List<Integer> levelOrder(TreeNode root) { 
+`   public List<Integer> levelOrder(TreeNode root) { 
 	`Queue<TreeNode> queue = new LinkedList<TreeNode>();
 	`List<Integer> wrapList = new List<Integer>();
 	`if(root == null) return wrapList;
