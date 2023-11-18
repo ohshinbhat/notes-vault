@@ -28,9 +28,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "21f7fcb4ae604c51",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2c703854b5e9ac3",
+  "active": "21f7fcb4ae604c51",
   "lastOpenFiles": [
     "DSA/Stack Queue Heap.md",
     "DSA/Trees/Trees Notes.md",
