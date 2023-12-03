@@ -33,9 +33,11 @@
             "id": "21f7fcb4ae604c51",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Reel ideas/DEC-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md",
+                "file": "Reel ideas/DEC-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md",
+                "file": "Reel ideas/DEC-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Trees/Trees Notes.md"
+                "file": "Reel ideas/DEC-23.md"
               }
             }
           },
@@ -190,6 +192,8 @@
   },
   "active": "21f7fcb4ae604c51",
   "lastOpenFiles": [
+    "Reel ideas/DEC-23.md",
+    "Reel ideas",
     "DSA/Stack Queue Heap.md",
     "DSA/Trees/Trees Notes.md",
     "DSA/Trees/Trees-Easy.md",
@@ -219,10 +223,8 @@
     "Excalidraw/Drawing 2023-08-28 00.52.05.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 00.51.15_0.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 00.51.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-23 19.36.55.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Untitled",
     "Redux",
     "React",
     "JavaScript",
