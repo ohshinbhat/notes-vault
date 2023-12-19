@@ -33,12 +33,8 @@
             "id": "21f7fcb4ae604c51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reel ideas/DEC-23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reel ideas/DEC-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reel ideas/DEC-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reel ideas/DEC-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,39 +184,39 @@
   },
   "active": "21f7fcb4ae604c51",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DSA/Strings/Strings-Notes.md",
+    "DSA/Strings/Strings-Medium.md",
+    "DSA/Linked-List/Linked-List-Notes.md",
+    "DSA/Linked-List/Linked-List-Medium.md",
+    "DSA/Dynamic-Programming/DP-Medium.md",
+    "DSA/Dynamic-Programming/RecursionDP-notes.md",
+    "DSA/Dynamic-Programming/DP-Easy.md",
+    "DSA/Arrays/Arrays-Notes.md",
+    "DSA/Arrays/Arrays-Medium.md",
+    "DSA/Arrays/Arrays-Easy.md",
+    "Web-Dev/REST API with Ts.md",
+    "Web-Dev/Next JS.md",
+    "Web-Dev/React notes.md",
+    "Web-Dev/Hooks.md",
     "Reel ideas/DEC-23.md",
     "Reel ideas",
     "DSA/Stack Queue Heap.md",
     "DSA/Trees/Trees Notes.md",
     "DSA/Trees/Trees-Easy.md",
     "DSA/DSA List.md",
-    "DSA/Arrays/Arrays-Easy.md",
     "Pasted image 20230918054946.png",
     "Pasted image 20230918054638.png",
-    "DSA/Arrays/Arrays-Medium.md",
-    "DSA/Arrays/Arrays-Notes.md",
     "Redux-Notes.md",
-    "Web-Dev/Next JS.md",
     "React-Notes.md",
     "2023-08-23.md",
     "SIH'23.md",
     "Pasted image 20230821103624.png",
     "Javascript-Notes.md",
-    "Web-Dev/React notes.md",
-    "Web-Dev/Hooks.md",
     "DSA/Trees",
-    "DSA/Dynamic-Programming/DP-Easy.md",
     "DSA/Linked-List/Linked-List-Easy.md",
-    "DSA/Dynamic-Programming/RecursionDP-notes.md",
-    "DSA/Dynamic-Programming/DP-Medium.md",
-    "Web-Dev/REST API with Ts.md",
-    "Web-Dev/FestCult.md",
-    "Excalidraw/FestCult 2023-08-28 00.52.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 00.52.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 00.51.15_0.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 00.51.15.excalidraw.md",
     "Excalidraw",
-    "Untitled.canvas",
     "Redux",
     "React",
     "JavaScript",
